@@ -1,0 +1,2 @@
+DUPLICATE QUESTION DETECTION
+Duplicate question detection is a critical task in the field of natural language processing (NLP) and has garnered significant attention due to its practical applications in online question-answer platforms, community forums, and search engines. In this literature review, we explore previous work and existing solutions related to duplicate question detection, focusing on techniques, methodologies, and evaluation metrics used in the field.
